@@ -3,15 +3,6 @@
 #### 介绍
 目前全网最全面的2023年11月份 软件设计师 （软考中级）备考资源库。
 
-> 注意：获取更多在线视频资料和大文件无法上传GitHub，请关注公众号「**CTO说**」。关注后回复  『软件设计师』，免费领取2023年最新最全的软件设计师备考视频资料
->
-> ![公众号二维码](https://chaidingoss.oss-cn-hangzhou.aliyuncs.com/qrcode.jpg)
-
-> **23年11月份最新题库、全部免费、无广告刷题小程序，欢迎微信扫码练习！！！**
->
-> ![软考达人](https://chaidingoss.oss-cn-hangzhou.aliyuncs.com/ruankao/share/%E8%BD%AF%E4%BB%B6%E8%AE%BE%E8%AE%A1%E5%B8%88-gitee.png?x-oss-process=image/resize,w_258,h_258,limit_0)
-
-
 #### 目录结构
  - 1.基础精讲视频（2023年11月、2022年、2021年）
  - 2.真题及解析（2009年-2023年上半年）
@@ -69,8 +60,3 @@
  - 23年11月-2009年份软件设计师在线视频
  
 
-关注公众号 **CTO说**，专注研发管理，每周二与你准时分享，伴研发管理的你一起成长。
-关注后回复 「**软件设计师**」 ，领取CTO为你精心准备的超 1TB 免费 软件设计师 备考资源。
-
-
-![公众号二维码](https://chaidingoss.oss-cn-hangzhou.aliyuncs.com/qrcode.jpg)
